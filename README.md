@@ -1,4 +1,5 @@
-🎸 Site Oficial da Banda de Rock
+🎸 Site Oficial da Banda Ordinals
+
 Bem-vindo ao repositório do site oficial da nossa banda de rock! Este projeto foi desenvolvido com HTML, CSS, JavaScript e jQuery, com foco em um visual moderno, responsivo e cheio de atitude — como o som da banda!
 
 🚀 Tecnologias Utilizadas
